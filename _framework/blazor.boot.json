@@ -7,10 +7,10 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "IenitesDevs.dll": "sha256-psVfY9kl2JFnpG15vZsnWrgnj8uzZJwIel+NyK4LVqo=",
+      "IenitesDevs.dll": "sha256-HrpU7OUXqLdGNrlnXyq\/oQ2RQGVFkyanNSACV4mlUWA=",
       "Microsoft.AspNetCore.Components.dll": "sha256-DiyXUPqFjjNDkmoV1liBL2pdkxabUBoLlm3T+FE7tiU=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-\/ZpEMrkZGwcsGLmM9dwQpUfjNzqY8TLHdNl\/T4TgOG0=",
-      "Microsoft.AspNetCore.Components.Web.dll": "sha256-UK6m3J0pCBWPIfZDUI44A6sExNn16P4SFWXDqZ7maBM=",
+      "Microsoft.AspNetCore.Components.Web.dll": "sha256-t3Si0\/WIwowQRSBlrXNbmN7PHPq87H4HvvfdaVfVLfw=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-GthKrHcSc8uOL6XXkGQP6uGfESlsj9kHhiGlLA+w5iM=",
       "Microsoft.Extensions.Configuration.Abstractions.dll": "sha256-X\/f4fDl2cuIRXeWHhK\/f2UqQbFioD+RU4a4CEh0zrrQ=",
       "Microsoft.Extensions.Configuration.dll": "sha256-DBOKSPriP2JDxVbbWrLXyD3K4\/x3RBifNBWk\/q1I39M=",

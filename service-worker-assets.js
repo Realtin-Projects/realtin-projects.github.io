@@ -33,11 +33,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-CB4p4MSarzwfjazkvC22if3BadDM6gLseWqX4zsBI+k=",
+      "hash": "sha256-Sxtgr7BkVYkINaHOzZQEPL4ADDt4nSoyn+U2LSBre2w=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-psVfY9kl2JFnpG15vZsnWrgnj8uzZJwIel+NyK4LVqo=",
+      "hash": "sha256-HrpU7OUXqLdGNrlnXyq\/oQ2RQGVFkyanNSACV4mlUWA=",
       "url": "_framework\/IenitesDevs.dll"
     },
     {
@@ -49,7 +49,7 @@
       "url": "_framework\/Microsoft.AspNetCore.Components.Forms.dll"
     },
     {
-      "hash": "sha256-UK6m3J0pCBWPIfZDUI44A6sExNn16P4SFWXDqZ7maBM=",
+      "hash": "sha256-t3Si0\/WIwowQRSBlrXNbmN7PHPq87H4HvvfdaVfVLfw=",
       "url": "_framework\/Microsoft.AspNetCore.Components.Web.dll"
     },
     {
@@ -217,22 +217,6 @@
       "url": "404.html"
     },
     {
-      "hash": "sha256-2fbjDIdOygYWTPl6yOHRJ847cErFsoYfU8p+8bQo8Eo=",
-      "url": "Assets\/Films\/FirstFilm\/FirstFilm.mp4"
-    },
-    {
-      "hash": "sha256-5oIQY9uedCLRj5Z\/xXZ4mJkHMdeXdhCo+lXr\/95yT4g=",
-      "url": "Assets\/Films\/FirstFilm\/Icon.png"
-    },
-    {
-      "hash": "sha256-dAW\/TfQS3QZ4AY7TeoN3bV8S5L0ZFss7CyZKoZFjkKg=",
-      "url": "Assets\/Games\/JetPrigs\/Icon.png"
-    },
-    {
-      "hash": "sha256-E3Px2vLGsB5Uhxz8VN\/7V49Z3AeaRke5LdIA3eEOhAA=",
-      "url": "Assets\/Games\/JetPrigs\/JetPrigs.zip"
-    },
-    {
       "hash": "sha256-DT2gVE6AkKci7d0ec0yF0SkW5IZe16qMttJqpFbADig=",
       "url": "Assets\/Logo.png"
     },
@@ -247,10 +231,6 @@
     {
       "hash": "sha256-yddX88EeAiJ8X2S4xjrooVWEDuoffgHFQEabHMCfkKs=",
       "url": "Assets\/Tools\/RxmlToCSharpConverter\/Icon.png"
-    },
-    {
-      "hash": "sha256-\/ha0x6Ss0b\/\/psFcM5qMKHpG6qXS4Ar0iA3kwvaAeJg=",
-      "url": "Assets\/Tools\/YouTubeDownloader\/Icon.png"
     },
     {
       "hash": "sha256-iG8kwVeTceNQ0MULqiPnf494R2hEOz7xEDnoGIm9+G4=",
@@ -325,5 +305,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "VvIg\/NKm"
+  "version": "BbHqs7wS"
 };
